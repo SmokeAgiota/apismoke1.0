@@ -1,31 +1,86 @@
-</p>
-<h2> 𝙎𝘾𝙍𝙄𝙋𝙏 𝘼𝙆𝙄𝙇𝙇𝙀𝙍𝙎-𝙈𝘿 </h2>
-<p align="center">
-<a href="https://telegra.ph/file/2e68982440327a685a470.jpg"><img title="𝘼𝙠𝙞𝙡𝙡𝙚𝙧𝙨" src="https://telegra.ph/file/2e68982440327a685a470.jpg"></a>
-<p align="center">
+
+
+# </Smoke api/>
 
 <div align="center">
-<a href="https://chat.whatsapp.com/C4sfPH3X7mjJQrXxMMd4WJ"> 𝙂𝙧𝙪𝙥𝙤 𝙙𝙚 𝙎𝙪𝙥𝙤𝙧𝙩𝙚 </a>
 
-### Olaaa 👋🏻
-
-⚡Mudar o nome do dono e respostar  não te faz o o criador⚡ 
 </div>
 
-## Informção do Bot
+<p align="center">
 
-* Bot: 𝘼𝙆𝙄𝙇𝙇𝙀𝙍𝙎
-* Base: Aleatory-Md
-* Dono: Máximo
+  <h4 align="center">
 
-
+<img src="https://telegra.ph/file/ccef74420955922048166.jpg" alt="Infinity Bot V1.0" width="300" />
 
 
 
+</div>
 
-# 💥 Instalação 💥
+<p align="center">
+
+   <a href="HTTPS://wa.me/5542998642568"><img title="Misaki Bot" src="https://img.shields.io/badge/Contato dono-red.svg?style=for-the-badge&logo=github" /></a>
+
+ 
+
+  <a href="https://github.com/SmokeAgiota/api-smokev2"><img title="Misaki Bot" src="https://img.shields.io/badge/Rest-By SMOKE MODS-red.svg?style=for-the-badge&logo=github" /></a>
+
+ ⚡Mudar o nome do dono e respostar  não te faz o o criador⚡ 
+
+</div>
 
 
-termux: [Aqui estao](https://www.mediafire.com/file/me450k3ko3de5d8/Termux_0.117.apk/file)
 
-Download do Acode [Aqui](https://www.apkmirror.com/apk/fredrik-fornwall/termux-github-version/termux-github-version-0-119-1-release/termux-github-version-0-119-1-android-apk-download/download/?key=e260e6c8798ec426ab70ab5d108c6a0ef3)
+
+
+
+
+
+
+
+
+U euma Base Simples Para Devs.
+
+
+
+---------- Novidades ----------
+
+    
+
+- Design Dos Docs Alterado
+
+    
+
+[- 1 Novo Menu De Api -]
+
+- TextPro
+
+
+
+ 
+
+----------- Para Duvidas -----------
+
+    
+
+caso duvidas entre em contato! ( Clique Em Cima )
+
+    
+
+
+
+
+
+
+
+
+
+
+
+----------- Area De Downloads -----------
+
+  
+
+- [Baixar Termux 118 ( Clique )](https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-118-0-release/termux-fdroid-version-0-118-0-android-apk-download/download/)
+
+    
+
