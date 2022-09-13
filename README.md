@@ -20,7 +20,7 @@
 
  
 
-  <a href="https://github.com/SmokeAgiota/api-smokev2"><img title="Misaki Bot" src="https://img.shields.io/badge/Rest-By SMOKE MODS-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/SmokeAgiota/apismoke1.0"><img title="Misaki Bot" src="https://img.shields.io/badge/Rest-By SMOKE MODS-red.svg?style=for-the-badge&logo=github" /></a>
 
  ⚡Mudar o nome do dono e respostar  não te faz o o criador⚡ 
 
